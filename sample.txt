@@ -1,3 +1,4 @@
 this is a sample file
 this is second line
 This is committing from develop branch - test conflict
+This is committing from develop branch - making conflicts
